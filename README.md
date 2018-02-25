@@ -1,4 +1,4 @@
-## SNATCOIN Address Generator and Vanity Address Generator
+## SNATCOIN CPU Address Generator and CPU Vanity Address Generator
 
 
 This library will also work with the majority of other cryptocurrencies.
@@ -20,36 +20,23 @@ This library will also work with the majority of other cryptocurrencies.
 
 ### Snatcoin CPU Vanity Generator usage:
 
-    ./snatvanity.py YuM
+    ./snatvanity.py SNAT
 
-  Will create a Snatcoin vanity address starting with YuM
+  Will create a Snatcoin vanity address starting with SNAT
   
     
 ### Snatcoin CPU Vanity Generator [looping] usage:
 
-    ./snatloop.py YuM
+    ./snatloop.py SNAT
 
-  Will create a list of Snatcoin vanity address starting with YuM
+  Will create a list of Snatcoin vanity address starting with SNAT
 
-
-### Usage 
-
-    python addrgen.py
 
 ### Mac OS X
 
 For some reason, the script segfaults on OS X unless it's run in in 32-bit mode. Instead, those on OS X should run:
 
     bash snatgen.sh
-
-### Generating other types of addresses
-
-Supply the version number for your desired address  with the --otherversion switch. (supported by pywallet at least)
-
-    python addrgen.py --otherversion=48    <- Litecoin
-    python addrgen.py --otherversion=1     <- Snatcoin
-
-If you wish to generate addresses based on a passphrase, a given private key, or some other option look at the commented lines in the test() function.
 
 
 Created and Licensed Public Domain by Joric/bitcoin-dev June 2012 with minor modifications by David Sterry.  
