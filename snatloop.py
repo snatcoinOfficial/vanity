@@ -177,6 +177,7 @@ def test(otherversion):
           countertries += 1
           if startofpub == lookingfor:
              print "YAY! Caught it after", countertries, "tries -", "Public:", adsx[0], "- Private:", adsx[1]
+             countertries = 0
 
 if __name__ == '__main__':
     import optparse
