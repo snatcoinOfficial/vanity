@@ -3,7 +3,7 @@
 
 This library will help you create:
  
-  * public and private key pairs for Snatcoin Addresses
+  * public and private key pairs for Snatcoin addresses
   * Snatcoin vanity addresses
 
 
