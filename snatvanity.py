@@ -168,7 +168,7 @@ def test(otherversion):
     foundit = 0
     lookingfor = sys.argv[1:][0]
 
-    print "Snatcoin Vanity Address Generator v1.0.0", "\n\n"
+    print "Snatcoin CPU Vanity Address Generator v1.0.0", "\n\n"
     print "looking for Snatcoin addresses starting with:", lookingfor, "\n\n"
 
     while foundit == 0:
