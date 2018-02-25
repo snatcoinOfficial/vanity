@@ -40,7 +40,7 @@ This library will also work with the majority of other cryptocurrencies.
 
 For some reason, the script segfaults on OS X unless it's run in in 32-bit mode. Instead, those on OS X should run:
 
-    bash addrgen.sh
+    bash snatgen.sh
 
 ### Generating other types of addresses
 
