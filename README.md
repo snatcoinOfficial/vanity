@@ -8,7 +8,7 @@ This library will also work with the majority of other cryptocurrencies.
 
    git clone https://github.com/snatcoinOfficial/vanity.git
    
-   chmod +x addrgen.py addrgen.sh snatgen.sh snatvanity.py
+   chmod +x addrgen.py addrgen.sh snatgen.sh snatvanity.py snatloop.py
 
 
 
@@ -24,7 +24,14 @@ This library will also work with the majority of other cryptocurrencies.
   ./snatvanity.py YuM
 
   Will create a Snatcoin vanity address starting with YuM
+  
+  
+  
+### Snatcoin vanity generator [loop] usage:
 
+  ./snatloop.py YuM
+
+  Will create a list of Snatcoin vanity address starting with YuM
 
 
 
