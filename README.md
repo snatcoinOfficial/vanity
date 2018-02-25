@@ -8,6 +8,8 @@ This library will also work with the majority of other cryptocurrencies.
 
    git clone https://github.com/snatcoinOfficial/vanity.git
    
+   cd vanity
+   
    chmod +x addrgen.py addrgen.sh snatgen.sh snatvanity.py snatloop.py
 
 
