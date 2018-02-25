@@ -1,7 +1,10 @@
 ## SNATCOIN CPU Address Generator and CPU Vanity Address Generator
 
 
-This library will also work with the majority of other cryptocurrencies.
+This library will help you create:
+ 
+  * public and private key pairs for Snatcoin Addresses
+  * Snatcoin vanity addresses
 
 
 ### Setting up
