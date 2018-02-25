@@ -4,6 +4,13 @@
 This library will also work with the majority of other cryptocurrencies.
 
 
+### Setting up
+
+   git clone https://github.com/snatcoinOfficial/vanity.git
+   chmod +x addrgen.py addrgen.sh snatgen.sh snatvanity.py
+
+
+
 ### Grab a new Snatcoin public/private key pair:
 
   ./snatgen.sh
