@@ -1,6 +1,4 @@
-=======================================================
 SNATCOIN Address Generator and Vanity Address Generator
-=======================================================
 
 
 This library will also work with the majority of other cryptocurrencies.
