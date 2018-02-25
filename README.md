@@ -6,24 +6,22 @@ This library will also work with the majority of other cryptocurrencies.
 
 ### Setting up
 
-   git clone https://github.com/snatcoinOfficial/vanity.git
-   
-   cd vanity
-   
-   chmod +x addrgen.py addrgen.sh snatgen.sh snatvanity.py snatloop.py
+    git clone https://github.com/snatcoinOfficial/vanity.git
+    cd vanity 
+    chmod +x addrgen.py addrgen.sh snatgen.sh snatvanity.py snatloop.py
 
 
 
 ### Grab a new Snatcoin public/private key pair:
 
-  ./snatgen.sh
+    ./snatgen.sh
 
   This will create an array with your public Snatcoin address first and your private Snatcoin address second
 
 
 ### Snatcoin vanity generator usage:
 
-  ./snatvanity.py YuM
+    ./snatvanity.py YuM
 
   Will create a Snatcoin vanity address starting with YuM
   
@@ -31,7 +29,7 @@ This library will also work with the majority of other cryptocurrencies.
   
 ### Snatcoin vanity generator [loop] usage:
 
-  ./snatloop.py YuM
+    ./snatloop.py YuM
 
   Will create a list of Snatcoin vanity address starting with YuM
 
