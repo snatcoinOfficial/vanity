@@ -1,17 +1,17 @@
-# SNATCOIN Address Generator and Vanity Address Generator
+## SNATCOIN Address Generator and Vanity Address Generator
 
 
 This library will also work with the majority of other cryptocurrencies.
 
 
-Grab a new Snatcoin public/private key pair:
+### Grab a new Snatcoin public/private key pair:
 
   ./snatgen.sh
 
   This will create an array with your public Snatcoin address first and your private Snatcoin address second
 
 
-Snatcoin vanity generator usage:
+### Snatcoin vanity generator usage:
 
   ./snatvanity.py YuM
 
