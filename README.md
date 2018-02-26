@@ -10,8 +10,7 @@ This library will help you create:
 ### Setting up
 
     git clone https://github.com/snatcoinOfficial/vanity.git
-    cd vanity 
-    chmod +x addrgen.py addrgen.sh snatgen.sh snatvanity.py snatloop.py
+    cd vanity
 
 
 ### Grab a new Snatcoin public/private key pair:
