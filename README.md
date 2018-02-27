@@ -6,6 +6,8 @@ This library will help you create:
   * public and private key pairs for Snatcoin addresses
   * Snatcoin vanity addresses
 
+Uses Python 2.7.6
+
 
 ### Setting up
 
