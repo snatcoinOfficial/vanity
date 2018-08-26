@@ -1,5 +1,6 @@
 ## SNATCOIN CPU Address Generator and CPU Vanity Address Generator
 
+Snatcoin has been abandoned. See https://github.com/snatcoinOfficial/snatcoin/blob/master/README.md
 
 This library will help you create:
  
